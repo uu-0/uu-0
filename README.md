@@ -6,3 +6,6 @@
  
 
 
+  <a href="https://www.linkedin.com/in/louise-p-84691a221/">
+    <img alt="Linkedin" src="https://assets.website-files.com/5882070e014bf1cd4f33ce9e/6032fbea2f53e443e21b1306_linkedin-3-512.png"/>
+  </a>
