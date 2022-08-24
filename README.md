@@ -9,8 +9,7 @@
  <div align="justify">
  <p>hi, I'm Louise and I'm 19
  <br><br>  
- I'm preparing a diploma of advanced technician in computer science at CNED (The National Centre of Distance Learning).
- I chose to study at home because I wanted to work at my own pace, learn to be independent, but also become more responsible by being able to set myself constraints and  objectives. I also improve my skills thanks to FreeCodeCamp.</p>
+ I'm preparing a diploma of advanced technician in computer science at CNED (The National Centre of Distance Learning).</p>
 
 <p>I got some certificates like the MOOC of ANSSI, Cisco IT-essentials and Cisco Introduction to Cybersecurity </p>
 </div>
