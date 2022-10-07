@@ -7,7 +7,7 @@
  <h2>About</h3>
  
  <div align="justify">
- <p>hi, I'm Louise and I'm 19
+ <p>hi, I'm Louise and I'm 20
  <br><br>  
  I'm preparing a diploma of advanced technician in computer science at CNED (The National Centre of Distance Learning).</p>
 
