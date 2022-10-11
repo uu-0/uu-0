@@ -9,7 +9,7 @@
  <div align="justify">
  <p>hi, I'm Louise and I'm 20
  <br><br>  
- I'm preparing a diploma of advanced technician in computer science at CNED (The National Centre of Distance Learning).</p>
+ I'm preparing an advanced technician degree in computer science at CNED (The National Centre of Distance Learning).</p>
 
 <p>I got some certificates like the MOOC of ANSSI, Cisco IT-essentials and Cisco Introduction to Cybersecurity </p>
 </div>
