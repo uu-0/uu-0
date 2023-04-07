@@ -11,10 +11,8 @@
  <br><br>  
  I'm preparing an advanced technician degree in computer science at CNED (The National Centre of Distance Learning).</p>
 
-<p>I got some certificates like the MOOC of ANSSI, Cisco IT-essentials and Cisco Introduction to Cybersecurity </p>
+<p>I got some certificates like the MOOC of ANSSI, PIX, Cisco IT-essentials and Cisco Introduction to Cybersecurity </p>
 </div>
 
-<br><br><br>
-  <a href="https://www.linkedin.com/in/louise-p-84691a221/">
-    <img alt="Linkedin" src="https://assets.website-files.com/5882070e014bf1cd4f33ce9e/6032fbea2f53e443e21b1306_linkedin-3-512.png" width="60"/>
-  </a>
+<br><br><br><br><br><br>
+  ![uu-0's GitHub stats](https://github-readme-stats.vercel.app/api?username=uu-0&show_icons=true&theme=cobalt)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uu-0&&layout=compact&theme=cobalt)](https://github.com/uu-0/github-readme-stats)
