@@ -15,4 +15,4 @@
 </div>
 
 <br><br><br><br><br><br>
-  ![uu-0's GitHub stats](https://github-readme-stats.vercel.app/api?username=uu-0&show_icons=true&theme=cobalt)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uu-0&&layout=compact&theme=cobalt)](https://github.com/uu-0/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uu-0&&layout=compact&theme=cobalt)](https://github.com/uu-0/github-readme-stats)
